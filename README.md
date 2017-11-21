@@ -99,11 +99,33 @@ Scala を使うことでより価値を高めることができると考えて�
 
 ## 個人制作物
 
-- オセロゲーム
-    - [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
-- 空白改行削除ツール (コード喪失につき現在非公開)
-    - [空白と改行を削除するツールを作った | 5000164 is here](http://blog.5000164.jp/2013-10-space_delete/)
-    - [HTMLとCSSとJavaScriptで空白と改行を削除するWebアプリを作ったので詳細説明します | 5000164 is here](http://blog.5000164.jp/2013-11-space_delete/)
+### オセロゲーム
+
+#### 技術要素
+
+- Scala
+- ScalaTest
+- libGDX
+- Unit testing
+- TDD
+- Git
+
+#### 関連リンク
+
+- [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
+
+### 空白改行削除ツール
+
+#### 技術要素
+
+- HTML
+- CSS
+- JavaScript
+
+#### 関連リンク
+
+- [空白と改行を削除するツールを作った | 5000164 is here](http://blog.5000164.jp/2013-10-space_delete/)
+- [HTMLとCSSとJavaScriptで空白と改行を削除するWebアプリを作ったので詳細説明します | 5000164 is here](http://blog.5000164.jp/2013-11-space_delete/)
 
 ## プロジェクト
 
