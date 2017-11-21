@@ -70,6 +70,26 @@ Scala を使うことでより価値を高めることができると考えて�
 - Scala
 - チームビルディング
 
+## 最近の活動
+
+- 転職活動中
+    - 自分のスキルや経歴などの棚卸しをした
+    - 現在は会社に申し込んでいるところ
+- 心理学の本を読んで勉強した
+    - [Amazon.co.jp： 不合理　誰もがまぬがれない思考の罠100 eBook: スチュアート・ サザーランド, 伊藤 和子, 杉浦 茂樹: Kindleストア](https://www.amazon.co.jp/dp/B00JRQJUYU)
+    - [その判断は合理的か？ - 本「不合理　誰もがまぬがれない思考の罠100」の感想 | 5000164 is here](http://blog.5000164.jp/2017-11-irrationality/)
+- N予備校 に登録してサーバーサイドプログラミングを入門から復習中
+    - [N予備校 プログラミングコース](https://www.nnn.ed.nico/pages/programming/)
+    - サーバーサイドプログラミングの入門が終わったら Scala を使った大規模 Web アプリコースを勉強する予定
+- SOFT SKILLS, 実践テスト駆動開発, Scalaスケーラブルプログラミング を読んでいる
+    - [SOFT SKILLS　ソフトウェア開発者の人生マニュアル | ジョン・ソンメズ, 長尾 高弘, まつもとゆきひろ | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B01GDS0994)
+    - [実践テスト駆動開発 (Object Oriented SELECTION) | Steve Freeman, Nat Pryce, 和智 右桂, 高木 正弘 |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4798124583)
+    - [Scalaスケーラブルプログラミング第3版 | Martin Odersky, Lex Spoon, Bill Venners, 長尾 高弘, 羽生田 栄一, 水島 宏太 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B01LYPRFI7)
+- Scala で Slack Bot を作っている
+    - Twitter に投稿できるようにしたところ
+- 英語の勉強をしている
+- ポモドーロテクニックを使い始めた
+
 ## 学歴
 
 | 入学 | 卒業 | 学校名 | 学科 |
