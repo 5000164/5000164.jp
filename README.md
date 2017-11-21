@@ -114,6 +114,30 @@ Scala を使うことでより価値を高めることができると考えて�
 
 - [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
 
+### LINE Bot
+
+#### 技術要素
+
+- Python
+- AWS Lambda
+- Amazon API Gateway
+- LINE
+
+#### 関連リンク
+
+- [AWS Lambda の Python 3.6 で LINE Bot を動かす | 5000164 is here](http://blog.5000164.jp/2017-08-line_bot/)
+
+### Coubic 予約ブロックツール
+
+#### 技術要素
+
+- JavaScript
+- Chrome Extension
+
+#### 関連リンク
+
+- [Coubic の予約をブロックする拡張機能を作った | 5000164 is here](http://blog.5000164.jp/2015-11-coubic/)
+
 ### 空白改行削除ツール
 
 #### 技術要素
@@ -126,6 +150,18 @@ Scala を使うことでより価値を高めることができると考えて�
 
 - [空白と改行を削除するツールを作った | 5000164 is here](http://blog.5000164.jp/2013-10-space_delete/)
 - [HTMLとCSSとJavaScriptで空白と改行を削除するWebアプリを作ったので詳細説明します | 5000164 is here](http://blog.5000164.jp/2013-11-space_delete/)
+
+### ブログ
+
+#### 技術要素
+
+- VPS
+- Scientific Linux
+- PHP
+- WordPress
+- HTML
+- CSS
+- JavaScript
 
 ## プロジェクト
 
