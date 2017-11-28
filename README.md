@@ -119,6 +119,21 @@ Scala を使うことでより価値を高めることができると考えて�
 
 ## 個人制作物
 
+### Slack bot
+
+#### 技術要素
+
+- Scala
+- ScalaTest
+- Mockito
+- Unit testing
+- TDD
+- Git
+
+#### 関連リンク
+
+- [5000164/scala-bot](https://github.com/5000164/scala-bot)
+
 ### オセロゲーム
 
 #### 技術要素
