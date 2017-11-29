@@ -132,7 +132,7 @@ Scala を使うことでより価値を高めることができると考えて�
 
 #### 関連リンク
 
-- [5000164/scala-bot](https://github.com/5000164/scala-bot)
+- [Scala で Slack bot | 5000164 is here](http://blog.5000164.jp/2017-11-slack_bot/)
 
 ### オセロゲーム
 
