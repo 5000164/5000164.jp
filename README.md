@@ -141,6 +141,19 @@ Scala を使うことでより価値を高めることができると考えて�
 
 - [Scala で Slack bot | 5000164 is here](http://blog.5000164.jp/2017-11-slack_bot/)
 
+### LINE Bot
+
+#### 技術要素
+
+- Python
+- AWS Lambda
+- Amazon API Gateway
+- LINE
+
+#### 関連リンク
+
+- [AWS Lambda の Python 3.6 で LINE Bot を動かす | 5000164 is here](http://blog.5000164.jp/2017-08-line_bot/)
+
 ### オセロゲーム
 
 #### 技術要素
@@ -155,19 +168,6 @@ Scala を使うことでより価値を高めることができると考えて�
 #### 関連リンク
 
 - [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
-
-### LINE Bot
-
-#### 技術要素
-
-- Python
-- AWS Lambda
-- Amazon API Gateway
-- LINE
-
-#### 関連リンク
-
-- [AWS Lambda の Python 3.6 で LINE Bot を動かす | 5000164 is here](http://blog.5000164.jp/2017-08-line_bot/)
 
 ### Coubic 予約ブロックツール
 
