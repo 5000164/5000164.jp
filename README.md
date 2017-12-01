@@ -13,6 +13,13 @@
 | Twitter | [https://twitter.com/5000164](https://twitter.com/5000164) |
 | Wantedly | [https://www.wantedly.com/users/13822677](https://www.wantedly.com/users/13822677) |
 
+## 特記事項
+
+- 現在無職につき求職中
+- あと半年ほどしか働けない状態であり長期的なコミットが難しい
+- 雇用形態は業務委託でもアルバイトでもなんでも構わない
+- 勤務地は東京のみ
+
 ## 自己紹介
 
 1989 年生まれ。  
