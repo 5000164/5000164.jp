@@ -184,7 +184,7 @@ Scala を使うことでより価値を高めることができると考えて�
 - [空白と改行を削除するツールを作った | 5000164 is here](http://blog.5000164.jp/2013-10-space_delete/)
 - [HTMLとCSSとJavaScriptで空白と改行を削除するWebアプリを作ったので詳細説明します | 5000164 is here](http://blog.5000164.jp/2013-11-space_delete/)
 
-### ブログ
+### ブログ (旧)
 
 #### 技術要素
 
