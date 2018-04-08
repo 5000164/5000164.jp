@@ -11,7 +11,6 @@
 | ブログ | [http://blog.5000164.jp](http://blog.5000164.jp) |
 | GitHub | [https://github.com/5000164](https://github.com/5000164) |
 | Twitter | [https://twitter.com/5000164](https://twitter.com/5000164) |
-| Wantedly | [https://www.wantedly.com/users/13822677](https://www.wantedly.com/users/13822677) |
 
 ## 自己紹介
 
