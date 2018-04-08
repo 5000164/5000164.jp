@@ -71,14 +71,8 @@ Scala を使うことでより価値を高めることができると考えて�
 
 ## 最近の活動
 
-- Scalaスケーラブルプログラミング を読んでいる
-    - [Scalaスケーラブルプログラミング第3版 | Martin Odersky, Lex Spoon, Bill Venners, 長尾 高弘, 羽生田 栄一, 水島 宏太 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B01LYPRFI7)
-- N予備校 の 大規模 Web アプリ Scala 基礎 を進めている
-    - [N予備校 プログラミングコース](https://www.nnn.ed.nico/pages/programming/)
-- Team Geek を読んでいる
-    - [O'Reilly Japan - Team Geek](https://www.oreilly.co.jp/books/9784873116303/)
-- Slack 用のテキスト絵文字を生成するツールを作り始めた
-    - [5000164/slack-emoji-generator](https://github.com/5000164/slack-emoji-generator)
+- テキスト絵文字を生成するツールを制作中
+    - [5000164/text-emoji-generator: テキスト絵文字を生成する](https://github.com/5000164/text-emoji-generator)
 
 ## 学歴
 
