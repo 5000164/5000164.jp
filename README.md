@@ -102,6 +102,72 @@ Scala を使うことでより価値を高めることができると考えて�
 
 ## 個人制作物
 
+### Text Emoji Generator
+
+2018/1 -
+
+#### 技術要素
+
+- Scala
+- Scala.js
+- scalajs-react
+- ScalaCSS
+- ScalaTest
+- Unit testing
+- Electron
+
+#### 関連リンク
+
+- [5000164/text-emoji-generator: テキスト絵文字を生成する](https://github.com/5000164/text-emoji-generator)
+
+### ブログ (Gatsby)
+
+2018/8 -
+
+#### 技術要素
+
+- JavaScript
+- React.js
+- GraphQL
+- Gatsby
+- Static Site Generator
+
+#### 関連リンク
+
+- [5000164/study-english: 英語勉強用ブログ](https://github.com/5000164/study-english)
+- [英語勉強用ブログ](https://5000164.github.io/study-english/)
+
+### Hatena Bookmark Filter
+
+2018/6 - 2018/8
+
+#### 技術要素
+
+- Scala
+- Slick
+- H2 Database
+- Flyway
+- sttp
+- ScalaTest
+- Unit testing
+
+#### 関連リンク
+
+- [5000164/hatena-bookmark-filter: はてなブックマークの RSS で配信された記事をスター数で絞り込んで Slack に投稿する](https://github.com/5000164/hatena-bookmark-filter)
+
+### Backlog bot
+
+2018/2 - 2018/7
+
+#### 技術要素
+
+- Scala
+- Git
+
+#### 関連リンク
+
+- [5000164/backlog-bot](https://github.com/5000164/backlog-bot)
+
 ### Slack bot
 
 #### 技術要素
@@ -130,6 +196,23 @@ Scala を使うことでより価値を高めることができると考えて�
 #### 関連リンク
 
 - [AWS Lambda の Python 3.6 で LINE Bot を動かす | 5000164 is here](https://blog.5000164.jp/2017-08-line_bot/)
+
+### ブログ (Hugo)
+
+2017/8 -
+
+#### 技術要素
+
+- HTML
+- CSS
+- Hugo
+- Static Site Generator
+
+#### 関連リンク
+
+- [5000164/blog: blog](https://github.com/5000164/blog)
+- [5000164 is here](https://blog.5000164.jp/)
+- [ブログを Hugo に移行しました | 5000164 is here](https://blog.5000164.jp/2017/8/13/blog/)
 
 ### オセロゲーム
 
@@ -162,10 +245,10 @@ Scala を使うことでより価値を高めることができると考えて�
 
 #### 技術要素
 
-- Static Site Generator
-- Octopress
 - HTML
 - CSS
+- Octopress
+- Static Site Generator
 
 #### 関連リンク
 
@@ -188,13 +271,13 @@ Scala を使うことでより価値を高めることができると考えて�
 
 #### 技術要素
 
-- VPS
-- Scientific Linux
 - PHP
-- WordPress
 - HTML
 - CSS
 - JavaScript
+- WordPress
+- Scientific Linux
+- VPS
 
 #### 関連リンク
 
