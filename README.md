@@ -8,9 +8,9 @@
 | 名前の読み方 | すがわら ひろし |
 | 性別 | 男性 |
 | 生年月日 | 1989/7/5 |
-| ブログ | [https://blog.5000164.jp](https://blog.5000164.jp) |
+| ブログ | [https://blog.5000164.jp/](https://blog.5000164.jp/) |
 | GitHub | [https://github.com/5000164](https://github.com/5000164) |
-| Twitter | [https://twitter.com/5000164](https://twitter.com/5000164) |
+| Sourcerer | [https://sourcerer.io/5000164](https://sourcerer.io/5000164)|
 
 ## 自己紹介
 
