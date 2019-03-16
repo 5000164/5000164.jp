@@ -2,6 +2,8 @@
 
 ## Text Emoji Generator
 
+- [5000164/text-emoji-generator: テキスト絵文字を生成する](https://github.com/5000164/text-emoji-generator)
+
 ### 技術要素
 
 - Scala
@@ -11,10 +13,6 @@
 - ScalaTest
 - Unit testing
 - Electron
-
-### 関連リンク
-
-- [5000164/text-emoji-generator: テキスト絵文字を生成する](https://github.com/5000164/text-emoji-generator)
 
 ## ブログ (Gatsby)
 
@@ -26,12 +24,9 @@
 - Gatsby
 - Static Site Generator
 
-### 関連リンク
-
-- [5000164/study-english: 英語勉強用ブログ](https://github.com/5000164/study-english)
-- [英語勉強用ブログ](https://5000164.github.io/study-english/)
-
 ## Hatena Bookmark Filter
+
+- [5000164/hatena-bookmark-filter: はてなブックマークの RSS で配信された記事をスター数で絞り込んで Slack に投稿する](https://github.com/5000164/hatena-bookmark-filter)
 
 ### 技術要素
 
@@ -43,24 +38,21 @@
 - ScalaTest
 - Unit testing
 
-### 関連リンク
-
-- [5000164/hatena-bookmark-filter: はてなブックマークの RSS で配信された記事をスター数で絞り込んで Slack に投稿する](https://github.com/5000164/hatena-bookmark-filter)
-
 ## Backlog bot
+
+- [5000164/backlog-bot](https://github.com/5000164/backlog-bot)
 
 ### 技術要素
 
 - Scala
 - Git
 
-### 関連リンク
-
-- [5000164/backlog-bot](https://github.com/5000164/backlog-bot)
-
 # 2017
 
 ## Slack bot
+
+- [5000164/scala-bot](https://github.com/5000164/scala-bot)
+- [Scala で Slack bot | 5000164 is here](https://blog.5000164.jp/2017/11/29/slack-bot/)
 
 ### 技術要素
 
@@ -71,12 +63,9 @@
 - TDD
 - Git
 
-### 関連リンク
-
-- [5000164/scala-bot](https://github.com/5000164/scala-bot)
-- [Scala で Slack bot | 5000164 is here](https://blog.5000164.jp/2017-11-slack_bot/)
-
 ## LINE Bot
+
+- [AWS Lambda の Python 3.6 で LINE Bot を動かす | 5000164 is here](https://blog.5000164.jp/2017/8/14/line-bot/)
 
 ### 技術要素
 
@@ -84,10 +73,6 @@
 - AWS Lambda
 - Amazon API Gateway
 - LINE
-
-### 関連リンク
-
-- [AWS Lambda の Python 3.6 で LINE Bot を動かす | 5000164 is here](https://blog.5000164.jp/2017-08-line_bot/)
 
 ## ブログ (Hugo)
 
@@ -98,13 +83,9 @@
 - Hugo
 - Static Site Generator
 
-### 関連リンク
-
-- [5000164/blog: blog](https://github.com/5000164/blog)
-- [5000164 is here](https://blog.5000164.jp/)
-- [ブログを Hugo に移行しました | 5000164 is here](https://blog.5000164.jp/2017/8/13/blog/)
-
 ## オセロゲーム
+
+- [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
 
 ### 技術要素
 
@@ -115,23 +96,17 @@
 - TDD
 - Git
 
-### 関連リンク
-
-- [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
-
 # 2016
 
 ## Coubic 予約ブロックツール
+
+- [5000164/coubic-reserve-blocker](https://github.com/5000164/coubic-reserve-blocker)
+- [Coubic の予約をブロックする拡張機能を作った | 5000164 is here](https://blog.5000164.jp/2015/11/23/coubic/)
 
 ### 技術要素
 
 - JavaScript
 - Chrome Extension
-
-### 関連リンク
-
-- [5000164/coubic-reserve-blocker](https://github.com/5000164/coubic-reserve-blocker)
-- [Coubic の予約をブロックする拡張機能を作った | 5000164 is here](https://blog.5000164.jp/2015-11-coubic/)
 
 # 2014
 
@@ -144,24 +119,18 @@
 - Octopress
 - Static Site Generator
 
-### 関連リンク
-
-- [ブログ移転しました | 5000164 is here](https://blog.5000164.jp/2014/5/13/blog-moved/)
-
 # 2013
 
 ## 空白改行削除ツール
+
+- [空白と改行を削除するツールを作った | 5000164 is here](https://blog.5000164.jp/2013/10/23/space-delete/)
+- [HTMLとCSSとJavaScriptで空白と改行を削除するWebアプリを作ったので詳細説明します | 5000164 is here](https://blog.5000164.jp/2013/11/29/space-delete/)
 
 ### 技術要素
 
 - HTML
 - CSS
 - JavaScript
-
-### 関連リンク
-
-- [空白と改行を削除するツールを作った | 5000164 is here](https://blog.5000164.jp/2013-10-space_delete/)
-- [HTMLとCSSとJavaScriptで空白と改行を削除するWebアプリを作ったので詳細説明します | 5000164 is here](https://blog.5000164.jp/2013-11-space_delete/)
 
 # 2012
 
@@ -176,7 +145,3 @@
 - WordPress
 - Scientific Linux
 - VPS
-
-### 関連リンク
-
-- [WordPress始めました | 5000164 is here](https://blog.5000164.jp/2012/6/24/start-wordpress/)
