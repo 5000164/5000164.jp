@@ -1,3 +1,5 @@
+# 2018
+
 ## Text Emoji Generator
 
 ### 技術要素
@@ -16,8 +18,6 @@
 
 ## ブログ (Gatsby)
 
-2018/8 -
-
 ### 技術要素
 
 - JavaScript
@@ -32,8 +32,6 @@
 - [英語勉強用ブログ](https://5000164.github.io/study-english/)
 
 ## Hatena Bookmark Filter
-
-2018/6 - 2018/8
 
 ### 技術要素
 
@@ -51,8 +49,6 @@
 
 ## Backlog bot
 
-2018/2 - 2018/7
-
 ### 技術要素
 
 - Scala
@@ -61,6 +57,8 @@
 ### 関連リンク
 
 - [5000164/backlog-bot](https://github.com/5000164/backlog-bot)
+
+# 2017
 
 ## Slack bot
 
@@ -93,8 +91,6 @@
 
 ## ブログ (Hugo)
 
-2017/8 -
-
 ### 技術要素
 
 - HTML
@@ -123,6 +119,8 @@
 
 - [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
 
+# 2016
+
 ## Coubic 予約ブロックツール
 
 ### 技術要素
@@ -134,6 +132,8 @@
 
 - [5000164/coubic-reserve-blocker](https://github.com/5000164/coubic-reserve-blocker)
 - [Coubic の予約をブロックする拡張機能を作った | 5000164 is here](https://blog.5000164.jp/2015-11-coubic/)
+
+# 2014
 
 ## ブログ (Octopress)
 
@@ -148,6 +148,8 @@
 
 - [ブログ移転しました | 5000164 is here](https://blog.5000164.jp/2014/5/13/blog-moved/)
 
+# 2013
+
 ## 空白改行削除ツール
 
 ### 技術要素
@@ -160,6 +162,8 @@
 
 - [空白と改行を削除するツールを作った | 5000164 is here](https://blog.5000164.jp/2013-10-space_delete/)
 - [HTMLとCSSとJavaScriptで空白と改行を削除するWebアプリを作ったので詳細説明します | 5000164 is here](https://blog.5000164.jp/2013-11-space_delete/)
+
+# 2012
 
 ## ブログ (WordPress)
 
