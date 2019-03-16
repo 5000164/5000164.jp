@@ -1,3 +1,9 @@
+# 2019
+
+## KPT
+
+- [5000164/kpt](https://github.com/5000164/kpt)
+
 # 2018
 
 ## Text Emoji Generator
@@ -13,16 +19,6 @@
 - ScalaTest
 - Unit testing
 - Electron
-
-## ブログ (Gatsby)
-
-### 技術要素
-
-- JavaScript
-- React.js
-- GraphQL
-- Gatsby
-- Static Site Generator
 
 ## Hatena Bookmark Filter
 
@@ -40,12 +36,42 @@
 
 ## Backlog bot
 
-- [5000164/backlog-bot](https://github.com/5000164/backlog-bot)
+- [5000164/backlog-bot: Backlog の更新を監視して Slack に通知する](https://github.com/5000164/backlog-bot)
 
 ### 技術要素
 
 - Scala
 - Git
+
+## paper-invite-only
+
+- [5000164/paper-invite-only: Dropbox Paper の閲覧範囲を招待した人だけにする](https://github.com/5000164/paper-invite-only)
+
+## backlog-exporter-for-jira
+
+- [5000164/backlog-exporter-for-jira: Backlog のコンテンツを JIRA 用にエクスポートする](https://github.com/5000164/backlog-exporter-for-jira)
+
+## hugo-url-converter
+
+- [5000164/hugo-url-converter](https://github.com/5000164/hugo-url-converter)
+
+## chat-range-exporter
+
+- [5000164/chat-range-exporter](https://github.com/5000164/chat-range-exporter)
+
+## php7-practice-1
+
+- [5000164/php7-practice-1: PHP の練習](https://github.com/5000164/php7-practice-1)
+
+## ブログ (Gatsby)
+
+### 技術要素
+
+- JavaScript
+- React.js
+- GraphQL
+- Gatsby
+- Static Site Generator
 
 # 2017
 
@@ -74,6 +100,24 @@
 - Amazon API Gateway
 - LINE
 
+## Scala の練習
+
+- [5000164/scala-practice-1](https://github.com/5000164/scala-practice-1)
+- [5000164/scala-fizzbuzz](https://github.com/5000164/scala-fizzbuzz)
+
+## libgdx の練習
+
+- [5000164/libgdx-test](https://github.com/5000164/libgdx-test)
+- [5000164/libgdx-pyramid](https://github.com/5000164/libgdx-pyramid)
+- [5000164/libgdx-shape](https://github.com/5000164/libgdx-shape)
+- [5000164/libgdx-fizzbuzz](https://github.com/5000164/libgdx-fizzbuzz)
+- [5000164/libgdx-fizzbuzz-sin](https://github.com/5000164/libgdx-fizzbuzz-sin)
+- [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
+
+## Vue.js の練習
+
+- [5000164/vuejs-practice-1](https://github.com/5000164/vuejs-practice-1)
+
 ## ブログ (Hugo)
 
 ### 技術要素
@@ -83,18 +127,9 @@
 - Hugo
 - Static Site Generator
 
-## オセロゲーム
+## Hugo テーマ
 
-- [5000164/libgdx-othello](https://github.com/5000164/libgdx-othello)
-
-### 技術要素
-
-- Scala
-- ScalaTest
-- libGDX
-- Unit testing
-- TDD
-- Git
+- [5000164/remember](https://github.com/5000164/remember)
 
 # 2016
 
@@ -108,7 +143,46 @@
 - JavaScript
 - Chrome Extension
 
+# 2015
+
+## Go の練習
+
+- [5000164/go-file-rename](https://github.com/5000164/go-file-rename)
+
+## Chrome 拡張機能
+
+- [5000164/redirect-to-mobile-wikipedia](https://github.com/5000164/redirect-to-mobile-wikipedia)
+
 # 2014
+
+## PPFF
+
+- [5000164/PPFF: PHP Pico Form Framework](https://github.com/5000164/PPFF)
+
+## WPF の練習
+
+- [5000164/wpf-practice-1: WPFで枠のないウィンドウを作る](https://github.com/5000164/wpf-practice-1)
+- [5000164/wpf-practice-2: WPFで方向キーを入力した方向へ四角形を動かす](https://github.com/5000164/wpf-practice-2)
+
+## Android でアニメーションの練習
+
+- [5000164/surfaceview-loading](https://github.com/5000164/surfaceview-loading)
+
+## Processing の練習
+
+- [5000164/processing-practice-1](https://github.com/5000164/processing-practice-1)
+- [5000164/processing-practice-2](https://github.com/5000164/processing-practice-2)
+
+## DX Library の練習
+
+- [5000164/dxlib-practice-1: DXライブラリできれいなフォントを表示する](https://github.com/5000164/dxlib-practice-1)
+- [5000164/dxlib-practice-2: DXライブラリで読み込んだテキストをエンターで表示](https://github.com/5000164/dxlib-practice-2)
+- [5000164/dxlib-practice-3: DXライブラリ練習プロジェクト3](https://github.com/5000164/dxlib-practice-3)
+- [5000164/dxlib-practice-4: DXライブラリ練習プロジェクト4](https://github.com/5000164/dxlib-practice-4)
+
+## FuelPHP の練習
+
+- [5000164/fuelphp-test-practice-1](https://github.com/5000164/fuelphp-test-practice-1)
 
 ## ブログ (Octopress)
 
@@ -118,6 +192,10 @@
 - CSS
 - Octopress
 - Static Site Generator
+
+## Octopress のテーマ
+
+- [5000164/vertical](https://github.com/5000164/vertical)
 
 # 2013
 
