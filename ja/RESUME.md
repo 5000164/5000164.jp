@@ -27,6 +27,8 @@ Melbourne, Australia
 
 Quality Assurance, 2017 to 2018
 
+Tokyo, Japan
+
 - 品質保証のためのテストを Scala で自動化
 - 負荷テストを行うシステムを Scala で開発
 
@@ -34,12 +36,16 @@ Quality Assurance, 2017 to 2018
 
 Programmer, 2017 to 2017
 
+Tokyo, Japan
+
 - Web システムを Python と C# で開発
 - Docker を使用した環境の構築
 
 ## 株式会社インフィニットループ
 
 Programmer, 2015 to 2017
+
+Sapporo, Japan
 
 - ハイパフォーマンスな Web システムを PHP で開発
 - 運用時に発生した問題の迅速な調査と対応
@@ -49,6 +55,8 @@ Programmer, 2015 to 2017
 
 Programmer, 2010 to 2015
 
+Sendai, Japan and Tokyo, Japan
+
 - 主に Web システムの開発
 
 # Education
@@ -56,3 +64,5 @@ Programmer, 2010 to 2015
 ## 仙台高等専門学校
 
 情報工学科, 2005 to 2010
+
+Sendai, Japan
