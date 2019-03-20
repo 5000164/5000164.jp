@@ -10,7 +10,7 @@ Melbourne, Australia
 
 # Skills
 
-- 学生の時に学んだ情報工学の知識に加え、8 年以上の経験によるプログラミングの知識
+- 情報工学の知識に加え、8 年以上の経験によるプログラミングの知識
 - 言語やツールに対する知識 PHP, Scala, Python, C#, Java, JavaScript, HTML, CSS, SQL, MySQL, Git, Docker, Vagrant, New Relic, Amazon Web Services, Issue Tracking System
 - ユニットテストや E2E テストなどのテストに関する知識
 - 個人を尊重しながらうまくコミュニケーションを取りチームの働きを助ける
