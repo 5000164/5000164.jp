@@ -3,4 +3,4 @@
 # Contents
 
 - [Resume](/RESUME.md)
-- [Work](/WORK.md)
+- [Personal Works](/PERSONAL_WORKS.md)
