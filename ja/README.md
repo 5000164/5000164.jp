@@ -1,3 +1,5 @@
+[English](/README.md)
+
 # 個人制作物
 
 - [個人制作物](/ja/WORK.md)
