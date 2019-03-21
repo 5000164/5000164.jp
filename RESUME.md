@@ -45,7 +45,7 @@ Tokyo, Japan
 
 Programmer, 2015 to 2017
 
-Sapporo, Japan
+Hokkaido, Japan
 
 - Develop a high-performance web system with PHP
 - Quickly inspect and fix to problems which happen during in operation
@@ -55,7 +55,7 @@ Sapporo, Japan
 
 Programmer, 2010 to 2015
 
-Sendai, Japan and Tokyo, Japan
+Miyagi, Japan and Tokyo, Japan
 
 - Develop web systems mainly
 
@@ -65,4 +65,4 @@ Sendai, Japan and Tokyo, Japan
 
 Information Engineering Course, 2005 to 2010
 
-Sendai, Japan
+Miyagi, Japan
