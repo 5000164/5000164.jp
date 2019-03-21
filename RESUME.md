@@ -63,6 +63,6 @@ Miyagi, Japan and Tokyo, Japan
 
 ## National Institute of Technology, Sendai College
 
-Information Engineering Course, 2005 to 2010
+Associates, Computer Science, 2005 to 2010
 
 Miyagi, Japan

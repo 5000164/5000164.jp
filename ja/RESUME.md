@@ -63,6 +63,6 @@ Miyagi, Japan and Tokyo, Japan
 
 ## 仙台高等専門学校
 
-情報工学科, 2005 to 2010
+Associates, Computer Science, 2005 to 2010
 
 Miyagi, Japan
