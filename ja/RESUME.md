@@ -1,6 +1,6 @@
 # Hiroshi Sugawara
 
-Web Programmer
+Web Developer
 
 Melbourne, Australia
 
@@ -34,7 +34,7 @@ Tokyo, Japan
 
 ## 株式会社ミラボ
 
-Programmer, 2017 to 2017
+Web Developer, 2017 to 2017
 
 Tokyo, Japan
 
@@ -43,7 +43,7 @@ Tokyo, Japan
 
 ## 株式会社インフィニットループ
 
-Programmer, 2015 to 2017
+Web Developer, 2015 to 2017
 
 Hokkaido, Japan
 
@@ -53,7 +53,7 @@ Hokkaido, Japan
 
 ## ほか複数の会社で勤務
 
-Programmer, 2010 to 2015
+Developer, 2010 to 2015
 
 Miyagi, Japan and Tokyo, Japan
 

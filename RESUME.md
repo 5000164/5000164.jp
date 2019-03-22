@@ -1,12 +1,12 @@
 # Hiroshi Sugawara
 
-Web Programmer
+Web Developer
 
 Melbourne, Australia
 
 # Profile
 
-I am a diligent programmer. I have worked as a programmer for over 8 years and have knowledge of programming and testing. I value that a team works on a problem together, and act autonomously so that the team works well. I have a way of ​​thinking which is "Stably Unstable", usually study new things to improve myself and keep trying such as changing jobs and language study abroad.
+I am a diligent developer. I have worked as a programmer for over 8 years and have knowledge of programming and testing. I value that a team works on a problem together, and act autonomously so that the team works well. I have a way of ​​thinking which is "Stably Unstable", usually study new things to improve myself and keep trying such as changing jobs and language study abroad.
 
 # Skills
 
@@ -34,7 +34,7 @@ Tokyo, Japan
 
 ## Milabo Co., Ltd.
 
-Programmer, 2017 to 2017
+Web Developer, 2017 to 2017
 
 Tokyo, Japan
 
@@ -43,7 +43,7 @@ Tokyo, Japan
 
 ## Infinite Loop Co., Ltd.
 
-Programmer, 2015 to 2017
+Web Developer, 2015 to 2017
 
 Hokkaido, Japan
 
@@ -53,7 +53,7 @@ Hokkaido, Japan
 
 ## Work at other companies
 
-Programmer, 2010 to 2015
+Developer, 2010 to 2015
 
 Miyagi, Japan and Tokyo, Japan
 
