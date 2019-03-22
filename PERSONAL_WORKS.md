@@ -4,6 +4,15 @@
 
 - [5000164/kpt](https://github.com/5000164/kpt)
 
+### Technology Stack
+
+- Scala
+- Akka HTTP
+- WebSocket
+- Protocol Buffers
+- React
+- Scala.js
+
 # 2018
 
 ## Text Emoji Generator
