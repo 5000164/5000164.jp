@@ -2,7 +2,7 @@
 
 # 個人制作物
 
-- [個人制作物](/ja/PERSONAL_WORKS.md)
+- [個人制作物](/PERSONAL_WORKS.md)
 
 # アピール
 
