@@ -10,6 +10,8 @@
 - Akka HTTP
 - WebSocket
 - Protocol Buffers
+    - ScalaPB
+    - protobuf.js
 - React
 - Scala.js
 
