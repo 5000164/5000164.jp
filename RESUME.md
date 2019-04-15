@@ -11,7 +11,7 @@ I am a diligent developer. I have worked as a programmer for over 8 years and ha
 # Skills
 
 - Knowledge in Computer Science and Programming with over 8 years experience
-- Knowledge in languages ​​and tools PHP, Scala, Python, C#, Java, JavaScript, HTML, CSS, SQL, MySQL, Git, Docker, Vagrant, New Relic, Amazon Web Services, Issue Tracking System
+- Knowledge in languages, practices and tools PHP, Scala, Python, C#, Java, JavaScript, HTML, CSS, SQL, TDD, MySQL, Git, Docker, Vagrant, New Relic, Amazon Web Services, Issue Tracking System
 - Knowledge in testing such as unit testing and E2E testing
 - Help the team to work by communicating while respecting the individual
 - Actively document operational procedures and contents of finding
