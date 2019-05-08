@@ -63,7 +63,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://blog.5000164.jp`,
+        siteUrl: `https://5000164.jp`,
       },
     },
     `gatsby-plugin-sitemap`,
