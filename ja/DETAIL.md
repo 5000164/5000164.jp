@@ -2,10 +2,7 @@
 
 | 項目名 | 内容 |
 | --- | --- |
-| 名前 | 菅原 浩 |
-| 名前の読み方 | すがわら ひろし |
-| 性別 | 男性 |
-| 生年月日 | 1989/7/5 |
+| 名前 | Hiroshi Sugawara |
 | ブログ | [https://blog.5000164.jp/](https://blog.5000164.jp/) |
 | GitHub | [https://github.com/5000164](https://github.com/5000164) |
 | Sourcerer | [https://sourcerer.io/5000164](https://sourcerer.io/5000164)|
