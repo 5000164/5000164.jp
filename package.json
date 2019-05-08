@@ -3,11 +3,11 @@
   "private": true,
   "version": "0.1.0",
   "scripts": {
-    "build": "gatsby-site/node_modules/.bin/gatsby build",
-    "develop": "gatsby-site/node_modules/.bin/gatsby develop",
-    "format": "gatsby-site/node_modules/.bin/prettier --write src/**/*.{js,jsx}",
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
-    "serve": "gatsby-site/node_modules/.bin/gatsby serve",
+    "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
