@@ -8,22 +8,30 @@ const Resume = () => (
     <p>Web Developer</p>
     <o>Melbourne, Australia</o>
     <h2>Profile</h2>
-    <p>私は勉強熱心なプログラマーです。プログラマーとして 8
-      年を超える経験を持っており、プログラミングやテストについての知識を持っています。問題に対してチームとして取り組むということを重要視しており、チームがうまく機能するように自律的に行動を起こします。安定的に不安定という思想を持っており、成長するために普段から新しいことを勉強し、転職や留学などの挑戦を続けています。</p>
+    <p>
+      私は勉強熱心なプログラマーです。プログラマーとして 8
+      年を超える経験を持っており、プログラミングやテストについての知識を持っています。問題に対してチームとして取り組むということを重要視しており、チームがうまく機能するように自律的に行動を起こします。安定的に不安定という思想を持っており、成長するために普段から新しいことを勉強し、転職や留学などの挑戦を続けています。
+    </p>
     <h2>Skills</h2>
     <ul>
       <li>情報工学の知識に加え、8 年以上の経験によるプログラミングの知識</li>
-      <li>言語、開発手法やツールに対する知識 PHP, Scala, Python, C#, Java, JavaScript, HTML, CSS, SQL, TDD, MySQL, Git, Docker, Vagrant,
-        New Relic, Amazon Web Services, Issue Tracking System
+      <li>
+        言語、開発手法やツールに対する知識 PHP, Scala, Python, C#, Java,
+        JavaScript, HTML, CSS, SQL, TDD, MySQL, Git, Docker, Vagrant, New Relic,
+        Amazon Web Services, Issue Tracking System
       </li>
       <li>ユニットテストや E2E テストなどのテストに関する知識</li>
-      <li>個人を尊重しながらうまくコミュニケーションを取りチームの働きを助ける</li>
+      <li>
+        個人を尊重しながらうまくコミュニケーションを取りチームの働きを助ける
+      </li>
       <li>作業手順や調査内容などを積極的に文書化する</li>
     </ul>
     <h2>Languages</h2>
     <ul>
       <li>Japanese - Native</li>
-      <li>English - Intermediate (Grammar is equivalent to Upper-Intermediate)</li>
+      <li>
+        English - Intermediate (Grammar is equivalent to Upper-Intermediate)
+      </li>
     </ul>
     <h2>Experience</h2>
     <h3>株式会社Everforth</h3>

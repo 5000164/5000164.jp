@@ -12,7 +12,7 @@ const Footer = () => (
           }
         }
       }
-`}
+    `}
     render={data => (
       <StyledFooter>
         <div>

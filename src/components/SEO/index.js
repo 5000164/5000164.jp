@@ -10,14 +10,10 @@ const SEO = ({ title, description, slug, article }) => (
   <StaticQuery
     query={query}
     render={({
-               site: {
-                 siteMetadata: {
-                   siteUrl,
-                   image,
-                   twitterUsername,
-                 },
-               },
-             }) => {
+      site: {
+        siteMetadata: { siteUrl, image, twitterUsername },
+      },
+    }) => {
       const seo = {
         title: title,
         description: description,
@@ -28,10 +24,10 @@ const SEO = ({ title, description, slug, article }) => (
       return (
         <>
           <Helmet>
-            <meta charSet="utf-8"/>
+            <meta charSet="utf-8" />
             <title>{seo.title}</title>
-            <meta name="description" content={seo.description}/>
-            <meta name="image" content={seo.image}/>
+            <meta name="description" content={seo.description} />
+            <meta name="image" content={seo.image} />
           </Helmet>
           <Facebook
             pageUrl={seo.url}

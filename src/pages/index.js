@@ -14,8 +14,8 @@ const IndexPage = ({ data }) => (
       slug={"/"}
       article={false}
     />
-    <Resume/>
-    <Details/>
+    <Resume />
+    <Details />
   </Layout>
 )
 
