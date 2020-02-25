@@ -18,7 +18,7 @@ const Footer = () => (
         <div>
           <Link to="/">{data.site.siteMetadata.title}</Link>
         </div>
-        <div>Copyright © 2019 Hiroshi Sugawara. All rights reserved.</div>
+        <div>Copyright © 2020 Hiroshi Sugawara. All rights reserved.</div>
       </StyledFooter>
     )}
   />
