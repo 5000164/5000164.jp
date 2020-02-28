@@ -5,6 +5,7 @@ import Layout from "../components/Layout"
 import SEO from "../components/SEO"
 import Resume from "../components/Contents/resume"
 import Details from "../components/Contents/details"
+import PersonalWorks from "../components/Contents/personal-works"
 
 const IndexPage = ({ data, location }) => (
   <Layout location={location}>
@@ -16,6 +17,7 @@ const IndexPage = ({ data, location }) => (
     />
     <Resume/>
     <Details/>
+    <PersonalWorks/>
   </Layout>
 )
 
