@@ -1,10 +1,20 @@
+const trackingId = "UA-139882639-1"
+const anonymize = true
+
 module.exports = {
   siteMetadata: {
     title: `About 5000164`,
     description: `About my profile.`,
+    consent: {
+      text: "このウェブサイトでは Cookie を使用します。<a href='/privacy/'>詳細はこちら</a>",
+      accept: "同意する",
+      decline: "同意しない",
+    },
     siteUrl: `https://5000164.jp`,
     image: `/icon.png`,
     twitterUsername: `@5000164`,
+    trackingId,
+    anonymize,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -68,9 +78,18 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-gdpr-cookies`,
       options: {
-        trackingId: "UA-139882639-1",
+        googleAnalytics: {
+          trackingId,
+          cookieName: "gatsby-gdpr-google-analytics",
+          anonymize,
+        },
+        facebookPixel: {
+          pixelId: "",
+          cookieName: "gatsby-gdpr-facebook-pixel",
+        },
+        environments: ["production", "development"],
       },
     },
   ],

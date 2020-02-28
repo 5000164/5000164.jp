@@ -3,9 +3,9 @@ import Layout from "../components/Layout"
 import SEO from "../components/SEO"
 import Static from "../components/Static"
 
-export default () => {
+export default ({ location }) => {
   return (
-    <Layout>
+    <Layout location={location}>
       <SEO title={"Privacy Policy | About 5000164"} description={"Privacy Policy"} slug={"/privacy/"} article={false}/>
       <Static
         title={"Privacy Policy"}

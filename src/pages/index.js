@@ -6,16 +6,16 @@ import SEO from "../components/SEO"
 import Resume from "../components/Contents/resume"
 import Details from "../components/Contents/details"
 
-const IndexPage = ({ data }) => (
-  <Layout>
+const IndexPage = ({ data, location }) => (
+  <Layout location={location}>
     <SEO
       title={data.site.siteMetadata.title}
       description={data.site.siteMetadata.description}
       slug={"/"}
       article={false}
     />
-    <Resume />
-    <Details />
+    <Resume/>
+    <Details/>
   </Layout>
 )
 
