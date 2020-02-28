@@ -53,6 +53,10 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {},
+    },
+    {
       resolve: `gatsby-plugin-nprogress`,
       options: {
         showSpinner: false,
