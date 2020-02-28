@@ -16,7 +16,7 @@ const StyledTitle = styled.div`
   font-size: 2rem;
   text-align: center;
   color: hsl(235, 10%, 5%);
-  @media (max-width: 800px) {
+  @media (max-width: 1140px) {
     width: 95%;
   }
 `
@@ -24,7 +24,7 @@ const StyledTitle = styled.div`
 const StyledContent = styled.article`
   width: 600px;
   margin: 20px auto;
-  @media (max-width: 800px) {
+  @media (max-width: 1140px) {
     width: 75%;
   }
 `
