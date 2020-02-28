@@ -1,8 +1,8 @@
 import React from "react"
-import styled from "styled-components"
+import { StyledContent } from "./"
 
 const Details = () => (
-  <StyledDetail>
+  <StyledContent>
     <h1>Details</h1>
     <h2>基本情報</h2>
     <table>
@@ -379,12 +379,7 @@ const Details = () => (
         <td>コミュニケーションがとりやすいため</td>
       </tr>
     </table>
-  </StyledDetail>
+  </StyledContent>
 )
-
-const StyledDetail = styled.header`
-  width: 600px;
-  margin: auto;
-`
 
 export default Details

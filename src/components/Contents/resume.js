@@ -1,8 +1,8 @@
 import React from "react"
-import styled from "styled-components"
+import { StyledContent } from "./"
 
 const Resume = () => (
-  <StyledResume>
+  <StyledContent>
     <h1>Resume</h1>
     <h2>Hiroshi Sugawara</h2>
     <p>Web Developer</p>
@@ -66,12 +66,7 @@ const Resume = () => (
     <h3>仙台高等専門学校</h3>
     <p>Associates, Computer Science, 2005 to 2010</p>
     <p>Miyagi, Japan</p>
-  </StyledResume>
+  </StyledContent>
 )
-
-const StyledResume = styled.header`
-  width: 600px;
-  margin: auto;
-`
 
 export default Resume

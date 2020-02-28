@@ -28,12 +28,10 @@ const Footer = () => (
 )
 
 const StyledFooter = styled.footer`
-  margin: 120px auto 20px;
-  font-size: 1.2rem;
-  text-align: center;
-  color: hsl(235, 10%, 65%);
-  @media (max-width: 800px) {
-    width: 95%;
+  width: 600px;
+  margin: 240px auto 20px;
+  @media (max-width: 1140px) {
+    width: 75%;
   }
 `
 
