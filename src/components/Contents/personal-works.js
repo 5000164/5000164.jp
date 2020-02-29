@@ -380,8 +380,8 @@ const Year = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 600px;
-  margin: 80px auto;
+  width: 100%;
+  margin: 80px 0;
   &::before {
     content: "";
     display: block;
@@ -390,6 +390,11 @@ const Year = styled.div`
     background: hsl(235, 10%, 80%);
     border-radius: 8px;
   }
+  @media (max-width: 1140px) {
+    &::before {
+      width: 40%;
+    }
+  }
   &::after {
     content: "";
     display: block;
@@ -397,6 +402,11 @@ const Year = styled.div`
     height: 1px;
     background: hsl(235, 10%, 80%);
     border-radius: 8px;
+  }
+  @media (max-width: 1140px) {
+    &::after {
+      width: 40%;
+    }
   }
 `
 
