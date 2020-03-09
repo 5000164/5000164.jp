@@ -6,7 +6,7 @@ const Resume = () => (
     <h1>Resume</h1>
     <h2>Hiroshi Sugawara</h2>
     <p>Web Developer</p>
-    <o>Melbourne, Australia</o>
+    <o>Aarhus, Denmark</o>
     <h2>Profile</h2>
     <p>
       私は勉強熱心なプログラマーです。プログラマーとして 8
