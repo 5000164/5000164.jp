@@ -22,14 +22,6 @@ const Details = () => (
           <a href="https://github.com/5000164">https://github.com/5000164</a>
         </td>
       </tr>
-      <tr>
-        <td>Sourcerer</td>
-        <td>
-          <a href="https://sourcerer.io/5000164">
-            https://sourcerer.io/5000164
-          </a>
-        </td>
-      </tr>
     </table>
     <h2>職歴</h2>
     <table>
