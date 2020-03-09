@@ -29,9 +29,7 @@ const Resume = () => (
     <h2>Languages</h2>
     <ul>
       <li>Japanese - Native</li>
-      <li>
-        English - Intermediate (Grammar is equivalent to Upper-Intermediate)
-      </li>
+      <li>English - Intermediate</li>
     </ul>
     <h2>Experience</h2>
     <h3>株式会社Everforth</h3>
