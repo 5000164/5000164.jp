@@ -1,8 +1,8 @@
 import React from "react"
 import styled from "styled-components"
-import { StyledContent } from "./"
+import { StyledContent } from "../StyledContent"
 
-const PersonalWorks = () => (
+export const PersonalWorks = () => (
   <StyledContent>
     <h1>Personal Works</h1>
     <Year>2019</Year>
@@ -409,5 +409,3 @@ const Year = styled.div`
     }
   }
 `
-
-export default PersonalWorks

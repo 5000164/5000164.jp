@@ -1,7 +1,7 @@
 import React from "react"
-import { StyledContent } from "./"
+import { StyledContent } from "../StyledContent"
 
-const Details = () => (
+export const Details = () => (
   <StyledContent>
     <h1>Details</h1>
     <h2>基本情報</h2>
@@ -373,5 +373,3 @@ const Details = () => (
     </table>
   </StyledContent>
 )
-
-export default Details

@@ -1,7 +1,7 @@
 import React from "react"
-import { StyledContent } from "./"
+import { StyledContent } from "../StyledContent"
 
-const Resume = () => (
+export const Resume = () => (
   <StyledContent>
     <h1>Resume</h1>
     <h2>Hiroshi Sugawara</h2>
@@ -66,5 +66,3 @@ const Resume = () => (
     <p>Miyagi, Japan</p>
   </StyledContent>
 )
-
-export default Resume
