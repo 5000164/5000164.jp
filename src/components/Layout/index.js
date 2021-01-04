@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-family: serif;
     font-weight: lighter;
-    font-size: 62.5%;
+    font-size: 10px;
     font-kerning: normal; // フォントのカーニングを常に有効にする
     font-feature-settings: "palt"; // 自動カーニングさせる
     letter-spacing: 0.03rem; // 字間を調整
@@ -27,13 +27,8 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-size: 1.8rem;
     line-height: 1.55;
-    color: hsl(235, 10%, 28%);
+    color: hsl(235, 10%, 24%);
     background-color: hsl(0, 100%, 100%);
-    }
-  @media (max-width: 1140px) {
-    body {
-      line-height: 1.9; // スマホでは行間を少し広くする
-    }
   }
 
   a {

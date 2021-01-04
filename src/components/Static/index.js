@@ -12,21 +12,17 @@ const Static = ({ title, content }) => {
 
 const StyledTitle = styled.div`
   width: 600px;
-  margin: 20px auto;
-  font-size: 2rem;
+  margin: 40px auto;
+  font-size: 2.2rem;
+  letter-spacing: -0.05rem;
+  line-height: 1.3;
   text-align: center;
-  color: hsl(235, 10%, 5%);
-  @media (max-width: 1140px) {
-    width: 95%;
-  }
+  color: hsl(235, 10%, 32%);
 `
 
 const StyledContent = styled.article`
   width: 600px;
-  margin: 20px auto;
-  @media (max-width: 1140px) {
-    width: 75%;
-  }
+  margin: 40px auto;
 `
 
 export default Static
