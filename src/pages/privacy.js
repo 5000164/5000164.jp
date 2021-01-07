@@ -6,7 +6,12 @@ import Static from "../components/Static"
 export default ({ location }) => {
   return (
     <Layout location={location}>
-      <SEO title={"Privacy Policy | About 5000164"} description={"Privacy Policy"} slug={"/privacy/"} article={false}/>
+      <SEO
+        title={"Privacy Policy | About 5000164"}
+        description={"Privacy Policy"}
+        slug={"/privacy/"}
+        article={false}
+      />
       <Static
         title={"Privacy Policy"}
         content={

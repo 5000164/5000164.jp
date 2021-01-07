@@ -13,7 +13,7 @@ const Footer = () => (
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <StyledFooter>
         <div>
           <Link to="/">{data.site.siteMetadata.title}</Link>

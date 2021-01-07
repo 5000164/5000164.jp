@@ -6,7 +6,8 @@ module.exports = {
     title: `About 5000164`,
     description: `About my profile.`,
     consent: {
-      text: "このウェブサイトでは Cookie を使用します。<a href='/privacy/'>詳細はこちら</a>",
+      text:
+        "このウェブサイトでは Cookie を使用します。<a href='/privacy/'>詳細はこちら</a>",
       accept: "同意する",
       decline: "同意しない",
     },
