@@ -1,0 +1,7 @@
+export { about } from "./about"
+export { skills } from "./skills"
+export { experience } from "./experience"
+export { education } from "./education"
+export { certifications } from "./certifications"
+export { licenses } from "./licenses"
+export { personalWorks } from "./personal-works"
