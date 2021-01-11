@@ -3,9 +3,9 @@ import { graphql } from "gatsby"
 
 import Layout from "../../../../components/Layout"
 import SEO from "../../../../components/SEO"
-import { Resume } from "./components/Resume"
-import { Details } from "./components/Details"
-import { PersonalWorks } from "./components/PersonalWorks"
+import { Resume } from "../../../../components/2020/3/9/Resume"
+import { Details } from "../../../../components/2020/3/9/Details"
+import { PersonalWorks } from "../../../../components/2020/3/9/PersonalWorks"
 
 const Page = ({
   data: {

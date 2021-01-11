@@ -3,8 +3,8 @@ import { graphql } from "gatsby"
 
 import Layout from "../../../../components/Layout"
 import SEO from "../../../../components/SEO"
-import { Resume } from "./components/Resume"
-import { Details } from "./components/Details"
+import { Resume } from "../../../../components/2019/5/9/Resume"
+import { Details } from "../../../../components/2019/5/9/Details"
 
 const Page = ({
   data: {

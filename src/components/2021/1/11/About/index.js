@@ -1,7 +1,7 @@
 import React from "react"
-import { nl2br } from "../../../../../../util/nl2br"
-import { about } from "../../contents"
+import { nl2br } from "../../../../../util/nl2br"
 import { Heading, Paragraph, Title } from "../Text"
+import { about } from "../../../../../contents/2021/1/11"
 
 export const About = () => (
   <>

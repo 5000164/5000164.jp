@@ -1,8 +1,8 @@
 import React from "react"
 import styled from "styled-components"
-import { nl2br } from "../../../../../../util/nl2br"
-import { skills } from "../../contents"
+import { nl2br } from "../../../../../util/nl2br"
 import { Heading, Title } from "../Text"
+import { skills } from "../../../../../contents/2021/1/11"
 
 export const Skills = () => (
   <>

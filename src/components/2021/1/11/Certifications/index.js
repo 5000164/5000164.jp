@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
-import { certifications } from "../../contents"
 import { Heading, Key, Value } from "../Text"
+import { certifications } from "../../../../../contents/2021/1/11"
 
 export const Certifications = () => (
   <>

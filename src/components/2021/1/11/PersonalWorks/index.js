@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { Heading, Title } from "../Text"
-import { personalWorks } from "../../contents"
+import { personalWorks } from "../../../../../contents/2021/1/11"
 
 export const PersonalWorks = () => (
   <>

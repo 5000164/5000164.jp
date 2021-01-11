@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
-import { licenses } from "../../contents"
 import { Heading, Key, Value } from "../Text"
+import { licenses } from "../../../../../contents/2021/1/11"
 
 export const Licenses = () => (
   <>

@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
-import { experience } from "../../contents"
 import { Heading } from "../Text"
+import { experience } from "../../../../../contents/2021/1/11"
 
 export const Experience = () => (
   <>
