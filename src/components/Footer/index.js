@@ -13,7 +13,7 @@ const Footer = () => (
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <StyledFooter>
         <div>
           <Link to="/">{data.site.siteMetadata.title}</Link>
@@ -29,10 +29,8 @@ const Footer = () => (
 
 const StyledFooter = styled.footer`
   width: 600px;
-  margin: 240px auto 20px;
-  @media (max-width: 1140px) {
-    width: 75%;
-  }
+  margin: 240px auto;
+  padding-bottom: 16px;
 `
 
 export default Footer

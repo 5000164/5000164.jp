@@ -1,12 +1,12 @@
 import React from "react"
-import { StyledContent } from "./"
+import styled from "styled-components"
 
-const Resume = () => (
-  <StyledContent>
+export const Resume = () => (
+  <StyledResume>
     <h1>Resume</h1>
     <h2>Hiroshi Sugawara</h2>
     <p>Web Developer</p>
-    <p>Aarhus, Denmark</p>
+    <o>Melbourne, Australia</o>
     <h2>Profile</h2>
     <p>
       私は勉強熱心なプログラマーです。プログラマーとして 8
@@ -29,7 +29,9 @@ const Resume = () => (
     <h2>Languages</h2>
     <ul>
       <li>Japanese - Native</li>
-      <li>English - Intermediate</li>
+      <li>
+        English - Intermediate (Grammar is equivalent to Upper-Intermediate)
+      </li>
     </ul>
     <h2>Experience</h2>
     <h3>株式会社Everforth</h3>
@@ -64,7 +66,10 @@ const Resume = () => (
     <h3>仙台高等専門学校</h3>
     <p>Associates, Computer Science, 2005 to 2010</p>
     <p>Miyagi, Japan</p>
-  </StyledContent>
+  </StyledResume>
 )
 
-export default Resume
+const StyledResume = styled.header`
+  width: 600px;
+  margin: auto;
+`

@@ -13,33 +13,32 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-family: serif;
     font-weight: lighter;
-    font-size: 62.5%;
+    font-size: 10px;
     font-kerning: normal; // フォントのカーニングを常に有効にする
     font-feature-settings: "palt"; // 自動カーニングさせる
     letter-spacing: 0.03rem; // 字間を調整
     -webkit-font-smoothing: antialiased; // フォントにアンチエイリアスをかける (少し細く見える)
     -moz-osx-font-smoothing: grayscale;
   }
+
   body {
     width: 100%;
     height: 100%;
     margin: 0;
     font-size: 1.8rem;
     line-height: 1.55;
-    color: hsl(235, 10%, 28%);
+    color: hsl(235, 10%, 24%);
     background-color: hsl(0, 100%, 100%);
-    }
-  @media (max-width: 1140px) {
-    body {
-      line-height: 1.9; // スマホでは行間を少し広くする
-    }
   }
+
   a {
     color: hsl(235, 10%, 50%);
   }
+
   a:visited {
     color: hsl(235, 10%, 50%);
   }
+
   * {
     box-sizing: border-box;
   }
@@ -50,9 +49,9 @@ const Layout = ({ children, location, data }) => {
 
   return (
     <>
-      <GlobalStyle/>
+      <GlobalStyle />
       {children}
-      <Footer/>
+      <Footer />
       <CookieConsentWrapper>
         <CookieConsent
           cookieName="gatsby-gdpr-google-analytics"
@@ -73,7 +72,7 @@ const Layout = ({ children, location, data }) => {
             ReactGA.pageview(location.pathname)
           }}
         >
-          <div dangerouslySetInnerHTML={{ __html: consent.text }}/>
+          <div dangerouslySetInnerHTML={{ __html: consent.text }} />
         </CookieConsent>
       </CookieConsentWrapper>
     </>
@@ -94,29 +93,35 @@ const CookieConsentWrapper = styled.div`
     background-color: hsl(0, 100%, 100%);
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
   }
+
   .content {
     width: 400px;
     margin: 20px 0;
   }
+
   @media (max-width: 1140px) {
     .content {
       width: 95%;
     }
   }
+
   .declineButton {
     width: 80px;
     margin: 20px 0 20px 20px;
   }
+
   @media (max-width: 1140px) {
     .declineButton {
       width: 50%;
       margin: 20px 0;
     }
   }
+
   .button {
     width: 80px;
     margin: 20px 0 20px 20px;
   }
+
   @media (max-width: 1140px) {
     .button {
       width: 50%;
@@ -125,7 +130,7 @@ const CookieConsentWrapper = styled.div`
   }
 `
 
-export default props => (
+export default (props) => (
   <StaticQuery
     query={graphql`
       query {
@@ -142,7 +147,7 @@ export default props => (
         }
       }
     `}
-    render={data => <Layout data={data} {...props} />}
+    render={(data) => <Layout data={data} {...props} />}
   />
 )
 

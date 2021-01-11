@@ -1,8 +1,8 @@
 import React from "react"
-import { StyledContent } from "./"
+import styled from "styled-components"
 
-const Details = () => (
-  <StyledContent>
+export const Details = () => (
+  <StyledDetail>
     <h1>Details</h1>
     <h2>基本情報</h2>
     <table>
@@ -20,6 +20,14 @@ const Details = () => (
         <td>GitHub</td>
         <td>
           <a href="https://github.com/5000164">https://github.com/5000164</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Sourcerer</td>
+        <td>
+          <a href="https://sourcerer.io/5000164">
+            https://sourcerer.io/5000164
+          </a>
         </td>
       </tr>
     </table>
@@ -106,7 +114,7 @@ const Details = () => (
     <h3>現時点で足りないものは成長することで補うことができる</h3>
     <p>
       今までも安定的に不安定という価値観のもとにさまざまなチャレンジを行ってきました。
-      普段から新しいことを勉強しており、自分に足りないものは自ら成長して補っていくことができます。
+      新しい人に出会うことで新しいことを学び、普段からの自己学習や勉強会への参加などによって繰り返し自分を高めることに成功しており、自分に足りないものは自ら成長して補っていくことができます。
     </p>
     <h2>進みたい方向</h2>
     <p>
@@ -167,18 +175,7 @@ const Details = () => (
     </table>
     <table>
       <tr>
-        <td>Django</td>
-      </tr>
-      <tr>
-        <td>.NET Core</td>
-      </tr>
-    </table>
-    <table>
-      <tr>
         <td>MySQL</td>
-      </tr>
-      <tr>
-        <td>SQL Server</td>
       </tr>
     </table>
     <table>
@@ -371,7 +368,10 @@ const Details = () => (
         <td>コミュニケーションがとりやすいため</td>
       </tr>
     </table>
-  </StyledContent>
+  </StyledDetail>
 )
 
-export default Details
+const StyledDetail = styled.header`
+  width: 600px;
+  margin: auto;
+`
