@@ -426,16 +426,7 @@ export const personalWorks = [
           "WordPress",
           "VPS",
         ],
-        links: [
-          {
-            text: "ブログ記事",
-            href: "https://blog.5000164.jp/2013/10/23/space-delete/",
-          },
-          {
-            text: "ブログ記事",
-            href: "https://blog.5000164.jp/2013/11/29/space-delete/",
-          },
-        ],
+        links: [],
       },
     ],
   },
